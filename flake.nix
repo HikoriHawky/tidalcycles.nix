@@ -16,7 +16,7 @@
       flake = false;
     };
     tidal-src = {
-      url = "git+https://codeberg.org/uzu/tidal/v1.10.0";
+      url = "git+https://codeberg.org/uzu/tidal/tree/v1.10.0";
       flake = false;
     };
     vim-tidal-src = {
